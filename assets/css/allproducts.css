@@ -1,0 +1,434 @@
+.allproductsec
+{
+   /* margin-top: 45px;
+    /*min-height: 720px;*/ 
+    max-width: 100%;
+  /*  width: 1600px; */
+    margin-top: 30px;
+    background: white;
+}
+
+.category
+{
+    background: white;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.categoryh
+{
+    color: #ffffff;
+    background: #55298a;
+   /* border-top-left-radius: 20px;
+    border-top-right-radius: 20px;*/
+    min-height: 62px;
+    padding-top: 12px;
+    font-size: 24px;
+        z-index: 1000;
+    margin-bottom: 20px;
+}
+
+
+.allproductsec .col-lg-4
+{
+padding:0px;
+   
+}
+
+.allproductsec .col-md-4
+{
+padding:0px;
+   
+}
+
+.allproductsec .col-sm-12
+{
+padding:0px;
+   
+}
+
+.allproductsec .col-xs-12
+{
+padding:0px;
+   
+}
+
+
+.categorylinks a
+{
+    color: #542989;
+    display: block;
+    font-weight: 600;
+    padding-top: 3px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+
+.productcontents
+{
+    background: white;
+    /*border-radius: 0px 0px 20px 20px;
+    /*  margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 20px; */
+    padding-bottom: 30px;
+        padding-left: 20px;
+    padding-right: 20px;
+}
+
+.h5allpro
+{
+    margin-top: 15px;
+    color: #68396d;
+}
+
+.category
+{
+max-height: 400px;    
+}
+
+
+#Container .mix{
+	display: none;
+}
+
+.prodet
+{
+    color: #898b8d;
+    font-size: 15px;
+}
+
+.prodbg
+{
+    width: 190px;
+    height: 40px;
+    /*box-shadow: 0 2px 5px #ccc;*/
+    max-width: 100%;
+    
+
+}
+
+.prodcon
+{
+padding-top: 5px;}
+
+.h4pro
+{
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+}
+
+.prodslid
+{
+    max-width: 800px;
+}
+
+.carousel-indicators li {
+    box-sizing: content-box;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 30px;
+    height: 30px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-clip: padding-box;
+    border-top: 0px solid transparent;
+    border-bottom: 0px solid transparent;
+    opacity: .5;
+    transition: opacity .6s ease;
+}
+
+
+
+.bodypws {
+    padding-top: 54px;
+    padding-bottom: 56px;
+}
+
+.dropdown-item.active, .dropdown-item:active
+{
+    background: none;
+}
+
+.mix .carousel-indicators
+{
+    top: 113px;
+    /*left: 267px;
+    width: 160px;*/
+        margin-top: 40px;
+}
+
+.carousel-indicators .active
+{
+        box-shadow: 0 2px 5px #ccc;
+        border: 1px black solid;
+        opacity: 1;
+    
+
+
+
+
+
+}
+
+
+
+.btn-secondary
+{
+    color: white;
+    background-color: #642871;
+    font-weight: bold;
+    border-radius: 0px;
+  /*  width: 218px; */
+    height: 34px; 
+    border: none;
+    box-shadow: none;
+   /* margin-bottom: 50px;
+    margin-top: 50px;*/
+
+} 
+
+/*.applying:hover, :checked, :focus, :not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover
+{
+    color: white;
+    background-color: #642871;
+    font-weight: bold;
+    /*border-radius: 0px;
+    width: 218px; 
+        box-shadow: none;
+
+} */
+
+.btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle
+{
+    color: black;
+    background-color: #642871;
+    font-weight: bold;
+    border-radius: 0px;
+  /*  width: 218px; */
+   /* height: 34px;*/
+    border: none;
+        box-shadow: none;
+
+}
+
+.btn-secondary.focus, .btn-secondary:focus{
+    
+    box-shadow: none;
+}
+
+.dropdown-item.active, .dropdown-item:active
+{
+    color: white;
+    box-shadow: 0 0px 5px #ccc;
+
+}
+
+.allproducts .navbar-light .navbar-nav .nav-link:hover, :visited, :disabled, :checked, :focus, :not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover
+{
+    color: white;   
+}
+
+.subcatmen .dropdown-item
+{
+    color: black;
+}
+
+.dropdown-menu
+{
+    background: #55298a;
+}
+
+.btn-secondary:hover
+{
+    background: #642871;
+}
+
+.subcatmen
+{
+        position: absolute;
+    transform: translate3d(0px, 34px, 0px);
+    top: -1px;
+    left: 0px;
+    will-change: transform;
+    border: none;
+    border-radius: 0;
+    width: 218px;
+}
+
+.filter:hover
+{
+    color: wheat;
+    background: none;
+}
+
+
+/* New Cards Starting */
+
+h2
+{
+    float:left;
+    width:100%; 
+    color:#fff;
+    margin-bottom:40px; 
+    font-size: 14px;
+    position:relartive; 
+    z-index:3;
+    margin-top:30px
+}
+h2 span
+{
+    font-family: 
+        'Libre Baskerville', serif; 
+    display:block; font-size:45px;
+    text-transform:none; 
+    margin-bottom:20px; 
+    margin-top:30px; 
+    font-weight:700}
+h2 a
+{
+    color:#fff;
+    font-weight:bold;
+}
+
+.head
+{
+    float:left;
+    width:100%;
+}
+.search-box
+{
+    width:90%; 
+    margin:0 auto 40px;
+    box-shadow:10px 13px 0 rgba(0,0,0,0.2);
+}
+.listing-block{
+    background:#fff;
+    height:500px;
+    padding-top:20px;
+    overflow-y:scroll;
+}
+.slimScrollDiv
+{
+    width:41%!important;
+}
+.media
+{
+    background:#fff; 
+    position:relative; 
+    margin-bottom:85px;
+    border: 1px solid #bcbcbc;
+    width: 473px;
+    max-width: 100%;
+}
+
+.media img
+{
+   /* width:200px;
+    margin:0;
+   /* height:147px;*/
+    
+    width: 200px;
+    margin: 0;
+    padding-left: 80px;
+    padding-right: 8px;
+    /* height: 147px;*/
+}
+.media-body
+{
+    border-left:0;
+    height:auto;
+}
+.media .price
+{
+    float: left;
+    width: 100%;
+    font-size: 15px;
+    font-weight: 600;
+    color: black;
+    padding-top: 7px;
+    padding-left: 80px;
+    padding-right: 8px;
+}
+.media .price small
+{
+    display:block;
+    font-size:17px;
+    color:#232323;
+}
+.media .stats
+{
+    float:left; 
+    width:100%;
+    margin-top:10px;
+}
+.media .stats span
+{
+    float:left;
+    margin-right:10px;
+    font-size:15px;
+}
+.media .stats span i
+{
+    margin-right:7px;
+    color:#4765AB;
+}
+.media .address
+{
+    float:left;
+    width:100%;
+    font-size:14px;
+    margin-top:5px;
+    color:#888;
+}
+.media .fav-box
+{
+    position:absolute;
+    right:10px;
+    font-size:20px; 
+    top:4px;
+    color:#E74C3C;
+}
+
+.map-box
+{
+    background-color:#A3CCFF;
+}
+
+
+.media .row
+{
+    margin: 0px;
+}
+
+.navnavactive,  .navnavactive:hover
+{
+    color: white;
+    font-weight: 600;
+}
+
+.pocketpro .carousel-indicators
+{
+    margin-top: 165px;
+}
+
+.pocketpro .media .price
+{
+    padding-top: 25px;
+}
+
+.toiletpro .media .price
+{
+    padding-top: 10px;
+}
+
+.allproductsec .subcatmen .dropdown-item
+{
+    color: white;
+}

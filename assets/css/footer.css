@@ -1,0 +1,83 @@
+footer
+{
+    background-color: #55298a;
+    color: white;
+    /* margin-top: -21px; */
+    margin: 0px auto 0px;
+    max-width: 100%;
+    box-shadow: 0 2px 5px #ccc;
+   /* border-radius: 0px 0px 20px 20px;*/
+   /* margin-bottom: 10px;*/
+}
+
+
+.padddding{
+    border-top: 1px solid #d2d2d2;
+    width: 100%
+}
+
+.footercontent{
+    padding-top: 20px;
+    border-bottom: 1px solid #ae8eb51f;
+    width: 100%;
+    min-height: 180px;
+}
+
+.shoplinks a{
+    color: white;
+    display: block;
+    font-weight: 600;
+    /*padding-top: 3px;*/
+    padding-bottom: 2px;
+    font-size: 12px;
+}
+.copyrights{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.socialmedia
+{
+    max-height: 50px;
+    max-width: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+
+.gettouchsec a
+{
+    display: inline-block;
+}
+
+.footerlogo
+{
+max-width: 320px;
+    max-width: 100%;
+}
+
+.jobul
+{
+    margin-top: 10px;
+    padding-left: 70px;
+    line-height: 2.8;
+}
+
+.rootcave
+{
+    color: wheat;
+}
+
+footer h3
+{
+    padding-top: 25px;
+}
+
+footer a
+{
+padding-top: 5px;    
+}

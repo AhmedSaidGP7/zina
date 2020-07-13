@@ -1,0 +1,56 @@
+.aboutsection
+{
+    min-height: 320px;
+    width: 100%;
+    background: #f2f2f2;;
+    margin-top: 26px;
+}
+
+.abouth4
+{
+    padding-top: 40px;
+    text-align: left;
+    color: #762dbf;
+}
+
+.aboutimg1
+{
+    margin-left: 8.9px;
+    border-radius: 0px 20px 20px 0px;
+    width: 101%;
+    
+}
+
+.aboutsection p
+{
+    color: #9c75c3;
+    margin-top: 44px;
+}
+
+.secaboutsec
+{
+    min-height: 260px;
+    max-width: 940px;
+    background-image: url("https://azcdn.pioneer.pgsitecore.com/en-us/-/media/Puffs/Images/Callouts/Desktop/Brand_Experience/Puffs_sustainability_img.jpg?h=260&la=en-US&w=940&v=1-201706281149");
+    margin-top: 26px;
+    border-radius: 20px;
+    background-repeat: no-repeat;
+}
+
+.h2about
+{
+    color: white;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 50px;
+}
+.secaboutsec p
+{
+    
+    color: white;
+    max-width: 270px;
+    float: left;
+    padding-left: 29px;
+    text-align: left;
+    font-weight: 400;
+}

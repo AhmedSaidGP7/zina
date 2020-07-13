@@ -1,0 +1,137 @@
+body
+{
+    background-color: #f2f2f2;
+}
+
+.mainesction
+{
+    
+ 
+    background: white;
+  /*  margin-top: 201px;*/
+   /* border-radius: 20px 20px 0px 0px;*/
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    text-align: left;
+    max-width: 100%;
+   /* margin-bottom: 50px;*/
+}
+
+.hcolor
+{
+    color: #642871;
+    font-weight: bold;
+    margin-top: 36px;
+    text-align: center;
+}
+
+/*.btn-secondary
+{
+    color: #fff;
+    background-color: #8b2882   ;
+    font-weight: bold;
+    border-radius:20px;
+    width: 140px;
+    height: 34px;
+
+}*/
+
+.mainvector
+{
+    
+    position: relative;
+    bottom: 81px;
+    left: 29px;
+    z-index: -1;
+    max-width: 90%;
+
+}
+
+.slid-marg
+{
+    margin-top: 117px !important;
+}
+
+.text-bold
+{
+    font-weight: 600;
+}
+
+p{
+    text-align: center;
+}
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon/fonts/icomoon.eot?d928ey');
+  src:  url('../fonts/icomoon/fonts/icomoon.eot?d928ey#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon/fonts/icomoon.ttf?d928ey') format('truetype'),
+    url('../fonts/icomoon/fonts/icomoon.woff?d928ey') format('woff'),
+    url('../fonts/icomoon/fonts/icomoon.svg?d928ey#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-quality:before {
+    content: "\e900";
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    margin: 35px auto;
+    display: table;
+}
+
+
+.text-lift
+{
+       text-align: center;
+    color: #000000;
+    /* max-width: 310px; */
+    /* display: table; */
+    /* margin: auto; */
+    margin: auto;
+    padding-top: -5px;
+    font-size: 1.2em;
+    line-height: 40px;
+}
+
+/* ------------------*/
+
+
+i.fa {
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px #888;
+  padding: 0.5em 0.6em;
+
+}
+
+.main-content-imgs
+{
+    display: table;
+    margin: auto;
+}
+
+.Modal-h5
+{
+    margin-top: 5px;
+    color: #4c2b74;
+    text-align: left;
+    font-weight: bold;
+    font-size: 1.5em;}

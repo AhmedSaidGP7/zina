@@ -1,0 +1,116 @@
+.careersec
+{
+   /* margin-top: 80px; */
+    background: white;
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 40px;
+    max-width: 100%;
+    width: 100%;
+   /* border-radius: 20px 20px 0px 0px;*/
+    box-shadow: 0 2px 5px #ccc;
+    
+}
+
+.careersec h1
+{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 50px;
+    color: #642871;
+    margin: auto;
+    margin-bottom: 35px;
+}
+
+
+.careerlinks
+{
+    font-size: 22px;
+    margin: 15px;
+ font-weight: 600;
+        color: #899aa9;
+}
+
+.careerlinks:not([href]):not([tabindex]){
+    
+    color: #8092a2;
+}
+
+.locs
+{
+    border-bottom: 1px #bec7cf solid;
+    padding-bottom: 15px;
+}
+.jobs
+{
+    width: 350px;
+    height: 150px;
+    background: white;
+    box-shadow: 0 2px 5px #ccc;
+    max-width: 100%;
+    margin: 20px auto;
+
+    
+
+}
+
+.jobscontet
+{
+        padding-top: 24px;
+}
+
+.bluecolor
+{
+    height: 150px;
+    width: 6px;
+    background: #642871;
+    position: absolute;
+}
+
+.jobscontet p
+{
+ font-size: 20px;
+    text-align: left;
+    font-weight: 600;
+    color: #642871b0;
+    position: relative;
+    top: 2px;
+}
+
+.careerlinks:hover ,:checked, :focus
+{
+    
+    text-decoration: none;
+    color: #542989;
+}
+
+.h4job
+{    text-align: left;
+     margin-left: 20px; 
+     padding-bottom: 10px;
+     color: #642871;
+}
+
+.jobs a
+{
+    border: 2px solid #642871;
+    padding: 7px;
+    background: #642871;
+    color: white;
+    box-shadow: 0 2px 5px #ccc;
+    float: right;
+    font-weight: 500;
+    padding-bottom: -96px;
+    position: relative;
+    bottom: 10px;
+    right: 15px;
+    
+}
+.applying:hover,:checked, :focus, :not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover
+{
+    text-decoration: none;
+    color: #ccb6e8;
+     transition: all 0.3s ease;
+    transition-property: all;
+    transition-duration: 0.3s;
+}

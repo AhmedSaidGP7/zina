@@ -1,0 +1,78 @@
+.hader-information{
+    height:72px;
+    background: white;
+    /*border-radius:0px 0px 20px 20px;*/
+}
+
+contact-info{
+    
+    float: right;
+    
+    margin-left: 5cm;
+        
+   
+}
+
+
+.contact-info p
+{
+    
+    display: inline-block;
+    
+    padding-right:15px;
+    
+    font-size:10pt;
+    
+    color:#a03ec7;
+    font-weight: 600;
+    /*border-right: 1px solid #d2d2d2;*/
+    
+    padding-top: 10.2px;
+    height: 1cm;
+    float: right;
+    
+}
+.contact-info a
+{
+    
+   display: inline-block;
+    padding-right: 15px;
+    font-size: 14pt;
+    color: #542989;
+    font-weight: 600;
+    /* border-right: 1px solid #d2d2d2; */
+    padding-top: 11.2px;
+    height: 1cm;
+    float: right;
+    
+}
+
+
+
+
+
+.email-info
+{
+    
+   /*  border-left: 1px solid #d2d2d2;*/
+     padding:12px;
+    
+}
+
+header{
+    max-width: 100%;
+}
+
+.partnerss
+{
+    float: left;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 2px;
+    border-right: 1px solid #d2d2d2
+}
+
+a:hover
+{
+        text-decoration: none;
+}

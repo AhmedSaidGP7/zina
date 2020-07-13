@@ -1,0 +1,257 @@
+.navbar
+{
+    font-size: 18px;
+    font-weight: bold;
+    /*border-radius: 20px 20px 0px 0px;*/
+    transition: all 0.3s ease;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: initial;
+    max-width: 100%;
+   /* width: 1600px;*/
+   /* margin-top: 10px; */   
+    background: white;
+    height: 115px;
+} /*
+
+.navbar-default .navbar-toggle
+{
+    border-color: rgba(221, 221, 221, 0);
+}
+.nav-bar-logo
+{
+    height: 85px;
+    width: 153px;
+    margin-bottom: 20px;
+}
+
+.navbar-collapse
+{
+    
+    margin-left: 5px;
+    
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link
+{
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+
+
+*/
+
+.nav-bar-logo
+{
+   /* max-width: 172px;
+    position: absolute;
+    bottom: -1px;
+    right: calc(990px - 15%);*/
+    
+    width: 200px;
+   /*position: relative;
+    /* bottom: 1px; */
+    /* right: calc(990px - 15%); */
+    z-index: 888;
+    /*left: 170px;*/
+    padding-left: 60px;
+    max-width: 60%;
+    padding-top: 4px;
+    margin-left: 90px;
+}
+
+
+.nav-bar-logo1
+{
+    max-width: 200px;
+    position: relative;
+    
+}
+
+
+.navbar-light .navbar-nav .nav-link
+{
+        color: black;
+    transition: all 0.4s ease;
+    padding-top: 10px;
+    font-size: 18px;
+
+}
+
+.navbar-light .navbar-nav .nav-link:hover
+{
+   color: black;
+    transition: all 0.4s ease;
+  
+}
+
+.navbar-light .navbar-nav .nav-link:hover,:visited, :disabled ,:checked, :focus, :not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover
+{
+    color: black;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link
+{
+    color: black;
+}
+
+.navbar-light .navbar-toggler
+{
+    color: black ;
+    border-color: rgba(0,0,0,.0); 
+}
+
+.navbar-expand-lg .navbar-nav .nav-link
+{
+    padding-right: 0.5rem;
+    padding-left: .5rem;
+}
+
+.navbar ul
+{
+     margin-right: 134px;
+    /* margin-top: 50px;*/
+}
+
+@media only screen and (max-width: 991px)
+{
+.navbar ul
+{
+    text-align: center;
+    background: white;
+    width: 100%;
+    z-index: 999999999999999999;
+    position: relative;
+    top: 20px;
+        box-shadow: 0 6px 5px #00000073;
+
+    }
+    
+.navbaralama
+    {
+        display: none;
+    }
+}
+
+
+
+
+.dropdown-item
+{
+    text-align: center;
+}
+.bordernav
+{
+    border: 1px #d1cada solid;
+    /* padding-top: 17px; */
+    /* padding-bottom: 5px; */
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.applying:hover,:checked, :focus, :not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover
+{
+    text-decoration: none;
+    color: black;
+     transition: all 0.3s ease;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.productsbar h6
+{
+    margin-top: 13px;
+}
+
+.navbaralama
+{
+       height: 65px;
+    width: 100px;
+    /* color: #dcd9b7; */
+    background: rgb(30, 110, 151);
+    position: relative;
+    left: 15px;
+   border-radius: 20px 0px 0px 0px;
+    bottom: 0px;
+    border-left: 2px white solid;
+    padding-left: -396px;
+}
+
+.navbaralama:after {
+    content: '';
+    position: absolute;
+    top: 0px;
+    right: 59px;
+    border-top: 57px solid #642871;
+    border-left: 64px solid #642871;
+    width: 13px;
+    /* background: #fff; */
+    border-top-left-radius: 0px;
+    z-index: 9999999;
+    height: 65px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 100px;
+    border-top-right-radius: 100px;
+
+}
+
+.navbaralama:before {
+    content: '';
+    position: absolute;
+    top: 0px;
+    right: 52px;
+    border-top: 57px solid white;
+    border-left: 64px solid white;
+    width: 13px;
+    background: #fff;
+    border-radius: 100px;
+    z-index: 8888;
+    height: 65px;
+
+}
+
+.productsbar .dropdown-menu {
+    min-width: 34rem;
+    border-radius: 0rem;
+    top: 123%;
+    text-align: center;
+    background-color: #ffffffdb;
+    color: white;
+    padding-top: 20px;
+    /* margin-right: 34px; */
+    padding: 25px;
+    margin: auto;
+}
+
+.productsbar .dropdown-menu h6
+{
+    color: black;
+}
+
+.dropdown-menu {
+    left: 10px;
+    top: 61px;
+    background: white;
+}
+
+.navbar-toggler-icon
+{
+    margin-top: 25px;
+}
+
+
+
+@font-face {
+  font-family: 'gotha';
+  src:  url('../fonts/GothaProReg.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h5,p,h4,h6,h2,h3,h1,a,li{
+    font-family: gotha;
+}

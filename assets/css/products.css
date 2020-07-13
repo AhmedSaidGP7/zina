@@ -1,0 +1,274 @@
+
+.dropdown-menu img
+{
+margin-bottom: 8px;    
+}
+
+
+
+.productsbar a
+{
+    text-decoration: none;
+    background-color: transparent;
+    display: contents;
+    color: white;
+}
+
+.category
+{
+    margin-top: 18px;
+}
+
+.mix
+{
+    margin-top: 25px;
+}
+
+.btn-primary
+{
+    color: #fff;
+    background-color: #542989;
+    border-color: #542989;
+    box-shadow: 0 2px 5px #ccc;
+
+}
+
+.btn-primary:hover
+{
+    color: #fff;
+    background-color: #76569f;
+    border-color: #76569f;
+    box-shadow: 0 2px 5px #ccc;
+
+}
+
+.category h4
+{
+    font-size: 18px;
+    padding-top: 15px;
+}
+
+.category .btn-secondary
+{
+ 
+    border: 0px;
+}
+
+.category .btn-secondary:hover, :visited, :disabled ,:checked, :focus
+{
+    background: rgba(84, 41, 137, 0.02);
+    border: 0px;
+    box-shadow: 0 0 0 0.2rem rgba(130, 138, 145, 0);
+}
+.btn-secondary:not(:disabled):not(.disabled).active:focus, .btn-secondary:not(:disabled):not(.disabled):active:focus, .show>.btn-secondary.dropdown-toggle:focus
+{
+    border: 0px;
+    box-shadow: 0 0 0 0.2rem rgba(130, 138, 145, 0);
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle
+{
+  background: rgba(84, 41, 137, 0);
+    border: 0px;
+    box-shadow: 0 0 0 0.2rem rgba(130, 138, 145, 0);   
+}
+
+.headlink
+{
+    color: white;
+    font-size: 16px;
+    margin: auto;
+    padding-right: 17px;
+    padding-left: 17px;
+    border-right: 1px solid white;
+    height: 21px;
+   
+}
+
+.headlink1
+{
+    color: white;
+    font-size: 16px;
+    margin: auto;
+    padding-right: 17px;
+    padding-left: 17px;
+   
+}
+
+.headlink1:hover, .headlink:hover
+{
+    color: white;
+}
+
+.productmimg
+{
+   margin-top: 116px;
+   margin-bottom: -30px;
+    width: 100%;
+  /*  margin-top: 40px;*/
+}
+
+.cardtitile1
+{
+    margin-bottom: 44px;
+}
+
+#slidecolorpink
+{
+    background-color: #d8165c;
+        border-radius: 50%;
+
+}
+
+#slidecolororange
+{
+    background-color: #e58900;
+        border-radius: 50%;
+
+}
+#slidecolordarkgreen
+{
+    background-color: #48a638;
+        border-radius: 50%;
+
+}
+
+#slidecolorblue
+{
+    background-color: #0d68af;
+        border-radius: 50%;
+
+
+}
+
+#slidecolorbanfsgy
+{
+    background-color: #78487f;
+        border-radius: 50%;
+
+
+}
+#slidecoloryellow
+{
+    background-color: #f1db3f;
+        border-radius: 50%;
+
+    
+}
+
+#slidecolorgreen
+{
+    background-color: #7fbc45;
+    border-radius: 50%;
+
+}
+
+.card
+{
+max-width: 85%;
+}
+
+.dropdown
+{
+    display: inline-block;
+}
+
+.nylon img
+{
+/*padding-top: 50px;
+    padding-bottom: 34px;*/
+}
+
+.pixar
+{
+    max-width: 190px;
+    display: inline-flex;
+       margin-top: 14px;
+}
+
+.pixar a
+{
+    color: #642871;
+}
+
+.subcat
+{
+    text-align: center;
+}
+
+
+#slidecolorpink:visited
+{
+border: 2px black solid;
+}
+
+.product-info
+{
+    padding-bottom: 195px;
+}
+
+.product-type
+{
+    width: 70px;
+    position: absolute;
+    height: 100%;
+    background: #9c9c9c;
+    z-index: 99;
+    
+}
+
+.first-margin
+{
+    margin-left: 70px !important;
+}
+
+.product-type p
+{
+      transform: rotate(-90deg);
+
+
+  /* Legacy vendor prefixes that you probably don't need... */
+
+  /* Safari */
+  -webkit-transform: rotate(-90deg);
+
+  /* Firefox */
+  -moz-transform: rotate(-90deg);
+
+  /* IE */
+  -ms-transform: rotate(-90deg);
+
+  /* Opera */
+  -o-transform: rotate(-90deg);
+
+     margin-top: 160px;
+    width: 315px;
+    height: 80px;
+    font-size: 1.4em !important;
+    position: relative;
+    right: 104px;
+    color: white;
+    font-weight: bold;
+}
+
+.pocket-size img
+{
+max-width: 250px !important;
+}
+
+.pocket-text p
+{
+    
+   font-size: 1.4em !important;
+}
+
+.kitchen-size img
+{
+    max-width: 287px;
+    margin-bottom: 15px;
+}
+
+.toilt-size img
+{
+max-width: 357px;
+}

@@ -1,0 +1,19 @@
+.carousel-inner
+{
+    max-height: 608px;
+   /* margin-top: 40px;*/
+   /* width: 160px;*/
+    padding-top: 10px;
+}
+
+.bd-example
+{
+    
+    max-height: 400px;
+    width: 100%;
+}
+
+.slid-marg
+{
+    margin-top: 117px !important;
+}
